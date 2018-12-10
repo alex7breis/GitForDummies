@@ -1,5 +1,5 @@
 # GitForDummies
-Mini Curso Git
 
+Te conflt
 Alexander B. R.
 10/12/2018
